@@ -1,15 +1,8 @@
-<?php
-echo "<h1>Financial Services Conference</h1>"
-?>
-<!DOCTYPE html>
-<html lang="">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
-</head>
+<?php include_once 'header.php'; ?>
 
-<body>
+<p>The Australian Financial Pathways Conference presents you with the latest exciting developments in the world of finance. Network with your peers while you listen to renowned finance industry experts from around Australia and the world. Book early for the much anticipated ATO website workshop.</p>
+<p>Take the time to enjoy the sweeping beaches and historic atmosphere of this vibrant regional city. Five excellent hotels are within walking distance of the conference venue.</p>
+<p>Email us for a registration form and pay by the early bird deadline of 30 July to make big savings!</p>
+<a href="timetable.php">Go to the Timetable page</a>
 
-</body>
-</html>
+<?php include_once 'footer.php'; ?>
